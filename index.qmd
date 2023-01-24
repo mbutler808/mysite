@@ -19,6 +19,6 @@ Hello! I'm a Professor of Life Sciences at UH Manoa and a faculty member in the 
 
 There is so much bad news these days. This year I wanted to see beauty. This is the stunning photo gallery of Wildlife Photographer of the Year competition from the Natural History Museum
 
-- [Wildlife Photographer of the Year]<https://www.nhm.ac.uk/wpy/gallery>
+- [Wildlife Photographer of the Year](https://www.nhm.ac.uk/wpy/gallery)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
