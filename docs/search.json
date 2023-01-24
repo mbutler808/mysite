@@ -18,7 +18,7 @@
     "href": "index.html#the-majesty-of-wildlife",
     "title": "zool710-intro-marguerite-butler",
     "section": "The Majesty of Wildlife",
-    "text": "The Majesty of Wildlife\nThere is so much bad news these days. This year I wanted to see beauty. This is the stunning photo gallery of Wildlife Photographer of the Year competition from the Natural History Museum\n\nhttps://www.nhm.ac.uk/wpy/gallery\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "The Majesty of Wildlife\nThere is so much bad news these days. This year I wanted to see beauty. This is the stunning photo gallery of Wildlife Photographer of the Year competition from the Natural History Museum\n\n[Wildlife Photographer of the Year] https://www.nhm.ac.uk/wpy/gallery\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
